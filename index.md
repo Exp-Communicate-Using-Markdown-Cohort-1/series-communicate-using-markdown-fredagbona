@@ -13,3 +13,8 @@ $ sudo chmod +x file.sh
 $ sudo ./file.sh
 Start the file
 ```
+## Adding a list of my favourite sports
+
+- [x] BasketBall
+- [ ] FootBall
+- [ ] VoleyBall
